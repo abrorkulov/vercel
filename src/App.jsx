@@ -8,6 +8,7 @@ function App() {
     <>
       <div>
         <h1>Vite + React</h1>
+        <h2>Yvbhrbdihvdbhrsbgsj r</h2>сд
       </div>
     </>
   )
